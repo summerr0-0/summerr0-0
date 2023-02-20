@@ -8,9 +8,6 @@
 
 # 도서
 
-# 스터디
-- [개발도서/강의 스터디](https://github.com/Good-Developer-9492/RGD-Study)  
-- [알고리즘 스터디](https://github.com/Good-Developer-9492/RGD-Algorithm)
 
 
 # 진행중인 프로젝트
