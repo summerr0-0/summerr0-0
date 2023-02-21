@@ -14,7 +14,7 @@
 - [http & network basic](https://github.com/Good-Developer-9492/RGD-Study/tree/main/HTTP%20%26%20Network%20Basic)
 
 
-# 진행중인 프로젝트
+# 프로젝트
 
 <!---
 summerr0-0/summerr0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
