@@ -1,13 +1,15 @@
-# 정혜진
-백엔드 개발자 
 
-주 스킬
+느려도 꾸준히 성장하는 백엔드 개발자 **정혜진** 입니다.
+
+주 사용 기술
 java, spring Boot, mysql, aws
 
 ---
 # 노트
 ## 개인 공부
 - [java](https://github.com/summerr0-0/java)
+  - [내부적으로 다양한 동작을 수행할 수 있는 동적파라미터화](https://github.com/summerr0-0/java/blob/main/summary/2.Behavior_Parameterization.md)
+  - 
 - [spring](https://github.com/summerr0-0/spring) 
 - [jdbc](https://github.com/summerr0-0/spring-db/blob/main/README.md)
 - [그 외](https://github.com/summerr0-0/til/tree/main)
