@@ -2,7 +2,7 @@
 느려도 꾸준히 성장하는 백엔드 개발자 **정혜진** 입니다.
 
 주 사용 기술
-java, spring Boot, mysql, aws
+java, spring Boot, jpa, mysql, aws
 
 ---
 # 노트
