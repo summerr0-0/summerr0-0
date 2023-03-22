@@ -8,9 +8,6 @@ java, spring Boot, mysql, aws
 # 노트
 ## 개인 공부
 - [java](https://github.com/summerr0-0/java)
-  - [내부적으로 다양한 동작을 수행할 수 있는 동적파라미터화](https://github.com/summerr0-0/java/blob/main/summary/2.Behavior_Parameterization.md)
-  - [람다와 함수형 인터페이스](https://github.com/summerr0-0/java/blob/main/summary/3.Lambda_Expression.md) 
-
 - [spring](https://github.com/summerr0-0/spring) 
 - [jdbc](https://github.com/summerr0-0/spring-db/blob/main/README.md)
 - [그 외](https://github.com/summerr0-0/til/tree/main)
