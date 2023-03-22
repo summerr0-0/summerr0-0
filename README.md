@@ -24,7 +24,7 @@ java, spring Boot, mysql, aws
 
 
 ## 프로젝트
-[반땅](https://github.com/summerr0-0/banttang-introduction-page)
+[지역 커뮤니티 애플리케이션 - 반땅](https://github.com/summerr0-0/banttang-introduction-page)
 
 <!---
 summerr0-0/summerr0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
