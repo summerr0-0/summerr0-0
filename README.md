@@ -7,7 +7,7 @@ java, spring Boot, jpa, mysql, aws
 ---
 # 노트
 ## 개인 공부
-- [java](https://github.com/summerr0-0/java)
+- [java / 개발방법](https://github.com/summerr0-0/java)
 - [spring](https://github.com/summerr0-0/spring) 
 - [jdbc](https://github.com/summerr0-0/spring-db/blob/main/README.md)
 - [그 외](https://github.com/summerr0-0/til/tree/main)
