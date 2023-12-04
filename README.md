@@ -6,8 +6,7 @@ java, spring Boot, jpa, mysql, aws
  
 
 ---
-til 페이지
-https://summerr0-0.github.io/study/main/my-first-page.html
+[my page](https://summerr0-0.github.io/study/main/default-topic.html)
 
 <!---
 summerr0-0/summerr0-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
