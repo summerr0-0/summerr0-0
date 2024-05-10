@@ -9,9 +9,6 @@
 
 🌟 I love diving deep into coding challenges and continuously learning new technologies.  
 
-📫 Feel free to reach out to me via summerr060@gmail.com. 
-
-
 ## Tech Stack
 - **Languages:** Java, Kotlin, JavaScript 
 - **Frameworks:** Spring Boot, NestJS 
